@@ -2,7 +2,7 @@ from mindspore.train.serialization import save_checkpoint
 from mindspore import Tensor
 import torch
  
-def pytorch2mindspore(ckpt_name='mobilenetv3.pth'):
+def pytorch2mindspore(ckpt_name='m3.pth'):
  
     par_dict = torch.load(ckpt_name, map_location=torch.device('cpu'))
  
