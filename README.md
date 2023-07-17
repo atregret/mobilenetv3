@@ -138,6 +138,8 @@ epoch time: 995520.157, per step time: 397.890, avg loss: 2.343
 result: {'top_5_accuracy': 0.8687065972222222, 'top_1_accuracy': 0.669921875, 'loss': 2.332750029034085} ckpt= ./mobilenetV3-360_2502.ckpt
 ```
 
-PS：[启智云脑训练](https://openi.pcl.ac.cn/BaiJin/mobilenetv3/grampus/train-job/ve35b8b9d3984b05b2915483427c9d96)
+PS：
+[启智仓库](https://openi.pcl.ac.cn/BaiJin/mobilenetv3/grampus/train-job/ve35b8b9d3984b05b2915483427c9d96)
+![启动参数](./训练日志/train_start.png)
 
 
